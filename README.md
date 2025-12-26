@@ -6,7 +6,7 @@
 ---
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 Software Quality Assurance Intern
 
 - 📫 How to reach me **nuwanthivpathirana@gmail.com**
 
