@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Nuwanthi</h1>
+<h1 align="center">Hello 👋, I'm Nuwanthi Vitharana</h1>
 <h3 align="center"></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NuwanthiJ&label=Profile%20views&color=0e75b6&style=flat" alt="NuwanthiJ" /> </p>
