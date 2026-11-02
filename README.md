@@ -4,9 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NuwanthiJ&label=Profile%20views&color=0e75b6&style=flat" alt="NuwanthiJ" /> </p>
 
 ---
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 BSc (Hons) in Information Technology Graduate from **SLIIT**
 
-- 🌱 Software Quality Assurance Intern
+- 🌱 Quality Assurance Engineer
 
 - 📫 How to reach me **nuwanthivpathirana@gmail.com**
 
